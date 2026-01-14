@@ -16,3 +16,13 @@ codex 使用出现网络问题
 ![ccg_workflow](./img/1.12_ccg_8.jpg) 
 ![ccg_workflow](./img/1.12_ccg_9.jpg) 
 ![ccg_workflow](./img/1.12_ccg_10.jpg) 
+
+## 1.14 ccg calc工程设计
+![ccg_workflow](./img/1.14_calc_1.png)
+![ccg_workflow](./img/1.14_calc_2.png)
+![ccg_workflow](./img/1.14_calc_3.png)
+![ccg_workflow](./img/1.14_calc_4.png)
+![ccg_workflow](./img/1.14_calc_5.png)
+![ccg_workflow](./img/1.14_calc_6.png)
+![ccg_workflow](./img/1.14_calc_7.png)
+![ccg_workflow](./img/1.14_calc_8.png)
